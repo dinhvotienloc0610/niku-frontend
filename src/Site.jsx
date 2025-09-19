@@ -116,13 +116,13 @@ export default function Site() {
                             {
                                 title: "Fresh A5 Wagyu Steak",
                                 img:
-                                    "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?q=80&w=1600&auto=format&fit=crop",
+                                    "https://wagyushop.com/cdn/shop/products/MgyuFiletMignon1_1024x1024.png?v=1649698474",
                                 desc: "Cuts seared to your preference with delicate marbling and deep savor.",
                             },
                             {
                                 title: "Premium Oysters",
                                 img:
-                                    "https://images.unsplash.com/photo-1510626176961-4b57d4fbad03?q=80&w=1600&auto=format&fit=crop",
+                                    "https://www.mashed.com/img/gallery/the-oyster-fine-dining-restaurant-tip-thats-so-easy-to-break/l-intro-1681218838.jpg",
                                 desc: "Freshly shucked oysters served on ice with citrus and sauces.",
                             },
                             {
