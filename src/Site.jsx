@@ -296,7 +296,7 @@ function ChatWidget() {
     const [open, setOpen] = React.useState(false);
     const [input, setInput] = React.useState("");
     const [messages, setMessages] = React.useState([
-        { role: "assistant", content: "Hi. I can answer questions about hours, locations, menu, and reservations." },
+        { role: "assistant", content: "Hi. I can answer questions about hours, locations, menu, and reservations. Feel free to talk to me in any language!" },
     ]);
     const listRef = React.useRef(null);
     const API = import.meta.env.VITE_API_URL || "http://localhost:8787";
